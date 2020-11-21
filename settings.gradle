@@ -1,0 +1,3 @@
+include ':PdfiumAndroid'
+include ':app'
+rootProject.name = "PdfReaderAndroid"
